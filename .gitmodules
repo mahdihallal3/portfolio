@@ -1,0 +1,21 @@
+[submodule "projects/bitcoin-price-prediction"]
+	path = projects/bitcoin-price-prediction
+	url = https://github.com/mahdihallal3/bitcoin-price-prediction.git
+[submodule "projects/blood-donation-app"]
+	path = projects/blood-donation-app
+	url = https://github.com/mahdihallal3/blood-donation-app.git
+[submodule "projects/parallel-programming-solutions"]
+	path = projects/parallel-programming-solutions
+	url = https://github.com/mahdihallal3/parallel-programming-solutions.git
+[submodule "projects/music-chatbot"]
+	path = projects/music-chatbot
+	url = https://github.com/mahdihallal3/music-chatbot.git
+[submodule "projects/netflix-database-web-interface"]
+	path = projects/netflix-database-web-interface
+	url = https://github.com/mahdihallal3/netflix-database-web-interface.git
+[submodule "projects/java-assembly-compiler"]
+	path = projects/java-assembly-compiler
+	url = https://github.com/mahdihallal3/java-assembly-compiler.git
+[submodule "projects/flags-knowledge-app"]
+	path = projects/flags-knowledge-app
+	url = https://github.com/mahdihallal3/flags-knowledge-app.git
